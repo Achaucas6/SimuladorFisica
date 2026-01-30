@@ -26,4 +26,4 @@ Proyecto desarrollado en Unity para la desmotraccion de ciertos ejercicios propu
 **Adam David Chauca Sanchez**
 *Estudiante de Ingeniería de Sistemas*
 
-![Uplo<img width="1920" height="1080" alt="Simulador Fisica 30_01_2026 13_39_36" src="https://github.com/user-attachments/assets/16ada2dd-2225-40f9-9e70-a89fb8ab388b" />
+<img width="1920" height="1080" alt="Simulador Fisica 30_01_2026 13_39_36" src="https://github.com/user-attachments/assets/16ada2dd-2225-40f9-9e70-a89fb8ab388b" />
